@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/GradeBook.csproj": {}
+    "/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/src/GradeBook/GradeBook.csproj": {}
   },
   "projects": {
-    "/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/GradeBook.csproj": {
+    "/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/src/GradeBook/GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/GradeBook.csproj",
+        "projectUniqueName": "/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/src/GradeBook/GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/GradeBook.csproj",
+        "projectPath": "/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/src/GradeBook/GradeBook.csproj",
         "packagesPath": "/home/dataverse/.nuget/packages/",
-        "outputPath": "/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/obj/",
+        "outputPath": "/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/src/GradeBook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/dataverse/.nuget/NuGet/NuGet.Config"

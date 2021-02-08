@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LFrtu+XmUz92bNXU3l6vtMeVTLBPro/TFph8MPT9G+9DviuL1LSVVKeCztEQZnKs8XgIV7KQTyP3LvII53y3aA==",
+  "dgSpecHash": "6SAE6bAXEC2zyUiiqjjyJzd90bZR+Mzlm800XvM2w13SBK/zPdB4nxd1Rwf15p8SP+cwrrPSvK492n29CGfGvg==",
   "success": true,
-  "projectFilePath": "/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/GradeBook.csproj",
+  "projectFilePath": "/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/src/GradeBook/GradeBook.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
