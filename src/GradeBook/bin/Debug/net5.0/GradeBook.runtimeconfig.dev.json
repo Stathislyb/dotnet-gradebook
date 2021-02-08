@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/dataverse/.dotnet/store/|arch|/|tfm|",
+      "/home/dataverse/.nuget/packages"
+    ]
+  }
+}

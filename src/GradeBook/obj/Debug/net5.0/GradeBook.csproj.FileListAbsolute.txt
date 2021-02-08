@@ -1,0 +1,16 @@
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.deps.json
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.dll
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/bin/Debug/net5.0/ref/GradeBook.dll
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csprojAssemblyReference.cache
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfoInputs.cache
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfo.cs
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.CoreCompileInputs.cache
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.dll
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
+/mnt/4d03c43f-e0f6-42b1-97f1-315e7aa1f2ef/dataverse/testc/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache
